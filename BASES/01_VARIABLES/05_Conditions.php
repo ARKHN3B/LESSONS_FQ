@@ -8,7 +8,7 @@
 /* Premier personnage : 12 ans  */
 $character_1_age = 12;
 
-/* Si STRICTEMENT ÉGAL */
+/* Si ÉGAL */
 if ($character_1_age == 12) {
     echo "Notre personnage a pile poil douze ans !";
 }
